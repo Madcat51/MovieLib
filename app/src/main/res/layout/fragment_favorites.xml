@@ -9,10 +9,11 @@
 
 
     <TextView
-        android:id="@+id/favorites_text_view"
-        android:layout_width="48dp"
-        android:layout_height="18dp"
-        android:text="TextView"
+        android:id="@+id/title_favorites_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/title_favorites"
+        android:textSize="@dimen/font_size_title"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

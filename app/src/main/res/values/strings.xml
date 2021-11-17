@@ -3,4 +3,6 @@
     <string name="title_home">Основная</string>
     <string name="title_favorites">Избраное</string>
     <string name="title_ratings">Рейтинг</string>
+    <string name="title_home_vh">Фильмотека</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

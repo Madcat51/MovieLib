@@ -13,6 +13,6 @@ class RatingFragment : Fragment(R.layout.fragment_rating) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        binding.ratingTextView.text = "Rating"
+
     }
 }
